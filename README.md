@@ -8,12 +8,11 @@ Live demo :-  https://lustrous-khapse-a54c72.netlify.app/
 
 Steps to start this project on your device
 -----------------------------------
-1)  Clone this project into youyr device.
-2)  open this project in any editor/Vs-code
-3)  Kindly go to the following path from terminal : /PASSWORDGENERATOR/project
-4)  now run command : 
+1)  Kindly clone this project into youur device.
+2)  Kindly open this project in any editor/Vs-code.
+3)  Kindly go inside the project folder from the terminal and run the following command : 
         a) npm install
         b) npm start
-5)  React server will start listening at  http://localhost:3000/   
+4)  React server will start listening at  http://localhost:3000/   
 
 
