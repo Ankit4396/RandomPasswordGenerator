@@ -4,7 +4,7 @@ Apart from this Assumption made :- User can also define the length of the passwo
 
 
 
-Live demo :-  https://lustrous-khapse-a54c72.netlify.app/"
+Live demo :-  https://lustrous-khapse-a54c72.netlify.app/
 
 Steps to start this project on your device
 -----------------------------------
